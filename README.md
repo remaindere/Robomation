@@ -1,2 +1,2 @@
 # Robomation
-Processing codes[Cheese stick, etc..]
+Processing codes[Cheese stick]
